@@ -115,6 +115,17 @@ public class CampaignParse extends ParseObject {
     }
 
 
+    public ParseFile getmainImageMain() {
+        ParseFile imageMain = getParseFile("imageMain");
+        return imageMain;
+    }
+
+    public void setImageMain(ParseFile imageMainFile) {
+        put("imageMain", imageMainFile);
+    }
+
+
+
 
     public List<Campaign> getMedia() {
         return getList("media");
