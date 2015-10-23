@@ -13,6 +13,7 @@
     <string name="title_activity_sign_petition">SignPetitionActivity</string>
     <string name="parse_app_id">LCPA3eHqb1CyiP2pmZGdDXw6I54pZKNCoxTGAsTt</string>
     <string name="parse_client_key">hweFBlma45UrDKmcRNSlcdG7Fidp6lST0Siu8tcx</string>
+    <string name="facebook_app_id">1692972167639713</string>
 
     <string name="take_action">Take Action</string>
     <string name="create_campaign">Create Campaign</string>
@@ -35,5 +36,22 @@
     <string name="save_button_text">Save</string>
     <string name="cancel_button_text">Cancel</string>
     <string name="title_activity_user_profile">UserProfile</string>
+
+    <!-- Strings related to login -->
+    <string name="signup">Sign up</string>
+    <string name="title_activity_login">Log in</string>
+    <string name="title_activity_signup">Sign up</string>
+    <string name="logout">Log Out</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_again">Password Again</string>
+    <string name="error_intro">"Please "</string>
+    <string name="error_blank_username">enter a username</string>
+    <string name="error_blank_password">enter a password</string>
+    <string name="error_mismatched_passwords">enter the same password twice</string>
+    <string name="error_join">", and "</string>
+    <string name="error_end">.</string>
+    <string name="progress_login">Logging you in&#8230;</string>
+    <string name="progress_signup">Signing you up&#8230;</string>
 
 </resources>
